@@ -31,3 +31,7 @@ a.nav-item.nav-link{
   position: fixed;
 }
 
+html{
+  background-color: var(--river3);
+}
+
