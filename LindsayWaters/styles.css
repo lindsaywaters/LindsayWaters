@@ -1,0 +1,33 @@
+:root{
+  --river1:#BF99AE;
+  --river2:#C9DFF2;
+  --river3:#73BFBF;
+  --river4:#027368;
+  --river5:#02732A;
+  --firesky1:#F28749;
+  --firesky2:#F2A477;
+  --firesky3:#F24130;
+  --firesky4:#A63333;
+  --firesky5:#0D0D0D;
+}
+
+.navbar {
+justify-content: center;
+background-color: var(--river3);
+
+}
+a.nav-item.nav-link{
+  color: var(--river4);
+  padding-inline: 15rem;
+  font-weight: bold;
+  font-size: 1.5rem;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+ 
+ }
+
+.backgroundImage{
+  width: 100vw;
+  height: 50vw;
+  position: fixed;
+}
+
